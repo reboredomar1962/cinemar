@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\domain",
+    "\\lib\\domain\\datasources",
+    "\\lib\\domain\\entities"
+  ],
+  "PreviewInSolutionExplorer": false
+}
