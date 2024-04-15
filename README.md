@@ -3,19 +3,28 @@
 # Dev
 1. Copiar el .env.template y renombrarlo a .env
 2. Cambiar las variables de entorno (The MovieDB)
+// Si no estas logueado a The MovieDB usar: THE_MOVIEDB_KEY=173d76aaed715cbeee9729d7c6bab6ab
 
-//pedidos http
-1. dio
 
-//obtener las peliculas
+# Dependencias 
+
+//Obtener las peliculas
 1. TheMovieDB
 
-//estilos
-1. Material3
+//Pedidos http
+1. dio
 
-//rutas 
+//Rutas 
 1. GoRouter
 
-//gestor de estado
+//Gestor de estado
 1. riverpod
 
+//Estilos
+1. Material3
+
+//Animaciones
+1. animate_do
+
+//Formatear numeros
+1. intl
